@@ -1,2 +1,1 @@
-# flask-hello-world
-Displays Hello, World!
+It displays "Hello, World!"
